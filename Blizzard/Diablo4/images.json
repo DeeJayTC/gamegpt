@@ -1,0 +1,12 @@
+[
+    {
+        "name": "image01.jpg",
+        "title": "Inventory screenshot",
+        "description": "Shows the inventory of a Barbarian Character, the item tooltip for a Helmet with 531 Item Power, 664 Armor and various other stats. The helmet requires level 40, also visible is the healthbar and potion count"
+    },
+    {
+        "name": "image02.png",
+        "title": "Login Screen",
+        "description": "Shows the character selection screen of Diablo 4, a level 20 Barbarian character is selected and the account shows 3 more characters, level 17 and 20 named Lightning a Sorcerer, Zkatos a druid and another Barbarian Zkatos level 17. Also shows the Realm selection set to World Tier 2"
+    }
+]
